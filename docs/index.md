@@ -4,4 +4,4 @@
 ¡Bienvenido a la página de inicio de Github Pages de Fabio Holsen!
 ## Enlaces
 
-Maquetación [Página web Mercadona](fabioholsen.github.io/WebMercadonaEjemplo)
+Maquetación [Página web Mercadona](/WebMercadonaEjemplo)
